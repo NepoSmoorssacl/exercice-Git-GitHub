@@ -17,3 +17,9 @@ scripts de code(OpenClassrooms)
     <link rel="stylesheet" href="/bundles/tester/css/styles.css" type="text/css" />
 
     <script src="/bundles/tester/js/ace/ace.js" type="text/javascript" charset="utf-8"></script>
+    
+    
+    
+    <!--[if lt IE 9]>
+      <script src="/bundles/tester/js/html5shiv.js"></script>
+    <![endif]-->

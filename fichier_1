@@ -1,0 +1,19 @@
+
+scripts de code(OpenClassrooms)
+
+
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <title>Exercices</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link rel="stylesheet" href="/bundles/tester/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="/bundles/tester/css/bootstrap-responsive.min.css" type="text/css" />
+    <link rel="stylesheet" href="/bundles/tester/css/styles.css" type="text/css" />
+
+    <script src="/bundles/tester/js/ace/ace.js" type="text/javascript" charset="utf-8"></script>
